@@ -1,7 +1,7 @@
 # Data Jobs Dashboard v2 w/ Power BI
 
 ![Dashboard Page 2](/images/Project2_Page1.png)
-[📊 View interactive dashboard here on the Power BI Service](/Data_Jobs_v2/Data_Jobs_Dashboard_2.0.pbix)
+> <a href="https://lukeb.co/powerbi-project2" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 ## Introduction
 
